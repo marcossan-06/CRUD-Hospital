@@ -1,6 +1,6 @@
 # 🏥 CRUD Hospital - Proyecto Java con MySQL y JSON
 
-Este proyecto es una aplicación de consola en Java que simula la gestión de un sistema hospitalario, permitiendo realizar operaciones CRUD (**Crear**, **Leer**, **Actualizar** y **Eliminar**) sobre entidades las entidades **Hospitales**, **Médicos** y **Pacientes**.
+Este proyecto es una aplicación de consola en Java que simula la gestión de un hospital, permitiendo realizar operaciones CRUD (**Crear**, **Leer**, **Actualizar** y **Eliminar**) sobre entidades las entidades **Hospitales**, **Médicos** y **Pacientes**.
 
 Lo he diseñado con una arquitectura modular basada en:
 - ✅ POJO (entidades)
