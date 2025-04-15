@@ -23,5 +23,6 @@ Lo he diseñado con una arquitectura modular basada en:
   Ejecuta el Main.java para poner la aplicación en funcionamiento. 😁
   
   Al ejecutar el programa se insertarán algunos datos predeterminados en la base de datos, una vez ejecutado por primera vez asegurate de comentar las 2 lineas que realizan esta función:
+  
   ![image](https://github.com/user-attachments/assets/8e93609c-9422-43f3-8765-fb9db8c7c167)
 
