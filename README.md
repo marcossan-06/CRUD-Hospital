@@ -21,6 +21,7 @@ Lo he diseñado con una arquitectura modular basada en:
 ### ⚠️ IMPORTANTE: Verifica las credenciales en la clase conexionDB.java y ajustalas según tu configuración.
   Ejecuta el contenido del fichero hospital.sql en tu servidor MySQL para generar la base de datos y tablas.
   Ejecuta el Main.java para poner la aplicación en funcionamiento. 😁
+  
   Al ejecutar el programa se insertarán algunos datos predeterminados en la base de datos, una vez ejecutado por primera vez asegurate de comentar las 2 lineas que realizan esta función:
   ![image](https://github.com/user-attachments/assets/8e93609c-9422-43f3-8765-fb9db8c7c167)
 
