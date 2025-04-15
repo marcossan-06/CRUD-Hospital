@@ -10,19 +10,19 @@ Lo he diseñado con una arquitectura modular basada en:
 - ✅ JSON con datos iniciales para insertar en la BD
 - ✅ Registro de logs
 
-## ⚙️ Tecnologías Usadas
+## 🛠 Tecnologías Usadas
 
 - 🧠 **Java 23**
 - 📦 **Maven**
 - 🛢️ **MySQL**
 - 📄 **Gson (Google)** para manejo de JSON
 
-  ## Configuración y Ejecución
+  ## ⚙ Configuración y Ejecución
 ### ⚠️ IMPORTANTE: Verifica las credenciales en la clase conexionDB.java y ajustalas según tu configuración.
   Ejecuta el contenido del fichero hospital.sql en tu servidor MySQL para generar la base de datos y tablas.
   Ejecuta el Main.java para poner la aplicación en funcionamiento. 😁
   
-  Al ejecutar el programa se insertarán algunos datos predeterminados en la base de datos, una vez ejecutado por primera vez asegurate de comentar las 2 lineas que realizan esta función:
+  Al ejecutar el programa se insertarán algunos datos predeterminados en la base de datos, una vez ejecutado por primera vez asegurate de comentar las 2 lineas del Main.java que realizan esta función:
   
   ![image](https://github.com/user-attachments/assets/8e93609c-9422-43f3-8765-fb9db8c7c167)
 
